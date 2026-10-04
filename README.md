@@ -1,5 +1,5 @@
 # final_project_dataset_selection_Christensen
-Link to Notebook: 
+Link to Notebook: https://colab.research.google.com/drive/1kpXBRRmlnGi35t5vSTy79G8q8rc_3yaf?usp=sharing
 ## Purpose
 #### To propose the Thoracic Surgery Data from the UC Irvine Machine Learning Repository as my dataset for the final project and to explore the dataset and perform an initial assessment of the quality of the dataset.
 ## Brief description of exploratory analysis
@@ -11,9 +11,10 @@ Lubicz, M., Pawelczyk, K., Rzechonek, A., & Kolodziej, J. (2014). Thoracic Surge
 ## Required packages and libraries
 #### Libraries and versions (when applicable):
 - pandas  version: 2.2.3
-- numpy   version: 2.1.3
 - seaborn version: 0.13.2
-- 
+- matplotlib.pyplot
+- scipy.io with arff
+  
 ## Setup and Installation
 #### Load the specified libraries and packages. A message will print when completed successfully.
 #### Upload the data file from the link provided above and load into the notebook runtime. A message will print when completed successfully.
